@@ -1,0 +1,13 @@
+.container-fluid {
+  margin-left: 620px !important;
+}
+.navbar-brand {
+  display: flex;
+  margin: auto;
+  position: relative;
+  left: -580px;
+}
+.navbar-brand img {
+  width: 40px;
+  border-radius: 100px;
+}
